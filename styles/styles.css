@@ -1,0 +1,10 @@
+.socials {
+    width: 4em;
+}
+.horsocials {
+    display: inline;
+}
+#social-nav {
+    display: flex;
+  justify-content: flex-end;
+  }
